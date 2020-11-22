@@ -1,4 +1,4 @@
-//solution to the "Minimum Time Required" problem ojn hackerrank
+ //solution to the "Minimum Time Required" problem ojn hackerrank
 //my solution odes not pass all cases
 //time complexity is much higher:O(n) needed:O(nlog(n))
 
