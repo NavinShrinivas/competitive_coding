@@ -10,7 +10,7 @@
 2.To learn the topics before solving problems based on it on hackerrank, I use the Competetive coder's handbook by "Antti Laaksonen"...also online resources are your best friend to go along with the book.<br>
 
 <hr>
-<b>MY END GOAL</b>
+<b>MY END GOAL</b><br>
 1.Going forward I really and looking forward to upping my skills and reaching the ICPC team of my college :).<br>
 2.in the end I inted to use this as a backend data for one of my planned projects <br>
 <hr>
